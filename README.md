@@ -12,7 +12,7 @@
     I had to compress the video demonstration to keep it under GitHub’s maximum size limit, 
 	which explains the reduced quality.
 
-For more information on the process of making this project, please look at solarCharger24-25_Logbook.pdf.
+For more information on the process of making this project, please look at AIRobot24-25_Logbook.pdf.
 
 https://github.com/user-attachments/assets/ee055535-6858-4edb-8f1f-de28745f9a98
 

@@ -9,7 +9,7 @@
     
     The robot produced a response latency 10 – 50 seconds depending on the complexity of the user input.
 
-    I had to compress the video demonstration to get it below the maximum size limit of github.
+    I had to compress the video demonstration to keep it under GitHub’s maximum size limit, which explains the reduced quality.
 
 
 

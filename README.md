@@ -22,4 +22,8 @@ Environment Observation Demonstration:
 
 https://github.com/user-attachments/assets/66553b19-25da-4c2e-ac35-2e24db8cab77
 
+Following Command and Obstacle Avoidance Demonstration:
+
+https://github.com/user-attachments/assets/defd86f1-15e8-4cde-a3e9-b42ec748c17b
+
 ![robotpic](https://github.com/user-attachments/assets/d8fbabf0-e7f7-4ba0-8f97-9264a097577a)

@@ -14,6 +14,7 @@ which explains the reduced quality.
 
 For more step-by-step information on the process of making this project, please look at AIRobot24-25_Logbook.pdf.
 
-https://github.com/user-attachments/assets/ee055535-6858-4edb-8f1f-de28745f9a98
+Question and Answer Demonstration:
+https://github.com/user-attachments/assets/1b877825-34c8-4ad7-a8ee-571b5f53c868
 
 ![robotpic](https://github.com/user-attachments/assets/d8fbabf0-e7f7-4ba0-8f97-9264a097577a)

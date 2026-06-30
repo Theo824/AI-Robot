@@ -9,8 +9,10 @@ and devised and implemented the idea of regular image capture to ‘see’.
 
 The robot produced a response latency 10 – 50 seconds depending on the complexity of the user input.
 
+--> NOTE: The robot is a proof-of-concept prototype; hence, it uses electrical tape and a ready-made chassis (not 3D-printed). Most of my effort is in the firmware.
+
 I had to compress the video demonstration to keep it under GitHub’s maximum size limit, 
-which explains the reduced quality.
+which explains the reduced quality. 
 
 For more step-by-step information on the process of making this project, please look at AIRobot24-25_Logbook.pdf.
 

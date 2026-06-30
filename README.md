@@ -18,4 +18,8 @@ Question and Answer Demonstration:
 
 https://github.com/user-attachments/assets/1b877825-34c8-4ad7-a8ee-571b5f53c868
 
+Environment Observation Demonstration:
+
+https://github.com/user-attachments/assets/66553b19-25da-4c2e-ac35-2e24db8cab77
+
 ![robotpic](https://github.com/user-attachments/assets/d8fbabf0-e7f7-4ba0-8f97-9264a097577a)
